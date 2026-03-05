@@ -2675,24 +2675,24 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.00000025
+          "price": 0.000025
         },
         "response_token": {
-          "price": 0.0000015
+          "price": 0.00015
         },
         "cache_write_input_token": {
-          "price": 0.00000025
+          "price": 0.000025
         },
         "cache_read_input_token": {
-          "price": 0.000000025
+          "price": 0.0000025
         }
       },
       "batch_config": {
         "request_token": {
-          "price": 0.000000125
+          "price": 0.0000125
         },
         "response_token": {
-          "price": 0.00000075
+          "price": 0.000075
         }
       }
     }
