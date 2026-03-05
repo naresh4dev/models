@@ -2670,5 +2670,31 @@
         }
       }
     }
+  },
+  "gemini-3.1-flash-lite-preview": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00000025
+        },
+        "response_token": {
+          "price": 0.0000015
+        },
+        "cache_write_input_token": {
+          "price": 0.00000025
+        },
+        "cache_read_input_token": {
+          "price": 0.000000025
+        }
+      },
+      "batch_config": {
+        "request_token": {
+          "price": 0.000000125
+        },
+        "response_token": {
+          "price": 0.00000075
+        }
+      }
+    }
   }
 }
