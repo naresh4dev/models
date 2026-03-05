@@ -2631,7 +2631,6 @@
     ],
     "type": { "primary": "chat", "supported": ["image", "tools"] },
     "removeParams": ["temperature", "top_p"]
-    "removeParams": ["top_p"]
   },
   "cohere.Cohere-rerank-v4.0-pro": {
     "type": {
