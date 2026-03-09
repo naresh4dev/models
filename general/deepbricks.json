@@ -87,24 +87,6 @@
     "name": "dall-e-3",
     "type": "image"
   },
-  "claude-sonnet-4-5": {
-    "type": {
-      "primary": "chat",
-      "supported": [
-        "tools",
-        "image"
-      ]
-    }
-  },
-  "claude-haiku-4-5": {
-    "type": {
-      "primary": "chat",
-      "supported": [
-        "tools",
-        "image"
-      ]
-    }
-  },
   "gpt-5.1": {
     "type": {
       "primary": "chat",
@@ -151,15 +133,6 @@
     }
   },
   "gpt-4.1": {
-    "type": {
-      "primary": "chat",
-      "supported": [
-        "tools",
-        "image"
-      ]
-    }
-  },
-  "claude-3-5-sonnet": {
     "type": {
       "primary": "chat",
       "supported": [

@@ -356,30 +356,6 @@
       }
     }
   },
-  "claude-sonnet-4-5": {
-    "pricing_config": {
-      "pay_as_you_go": {
-        "request_token": {
-          "price": 0.00015
-        },
-        "response_token": {
-          "price": 0.00075
-        }
-      }
-    }
-  },
-  "claude-haiku-4-5": {
-    "pricing_config": {
-      "pay_as_you_go": {
-        "request_token": {
-          "price": 0.00005
-        },
-        "response_token": {
-          "price": 0.00025
-        }
-      }
-    }
-  },
   "gpt-5.1": {
     "pricing_config": {
       "pay_as_you_go": {
@@ -472,18 +448,6 @@
         },
         "response_token": {
           "price": 0.0004
-        }
-      }
-    }
-  },
-  "claude-3-5-sonnet": {
-    "pricing_config": {
-      "pay_as_you_go": {
-        "request_token": {
-          "price": 0.00015
-        },
-        "response_token": {
-          "price": 0.00075
         }
       }
     }
