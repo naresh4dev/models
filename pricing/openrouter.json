@@ -5267,5 +5267,17 @@
         }
       }
     }
+  },
+  "minimax/minimax-m2.5:free": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
   }
 }
