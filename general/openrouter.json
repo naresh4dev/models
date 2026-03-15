@@ -4924,6 +4924,20 @@
       }
     ]
   },
+  "z-ai/glm-5-turbo": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    },
+    "params": [
+      {
+        "key": "max_tokens",
+        "maxValue": 131072
+      }
+    ]
+  },
   "x-ai/grok-4.20-multi-agent-beta": {
     "type": {
       "primary": "chat",
