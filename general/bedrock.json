@@ -2072,7 +2072,7 @@
   "mistral.voxtral-small-24b-2507": {
     "type": { "primary": "chat" }
   },
-  "moonshot.kimi-k2-thinking": {
+  "moonshotai.kimi-k2-thinking": {
     "type": { "primary": "chat" }
   },
   "moonshotai.kimi-k2.5": {
