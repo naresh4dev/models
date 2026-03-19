@@ -2621,13 +2621,13 @@
       "supported": ["tools", "image"]
     }
   },
-  "gpt-5.4-nano-2026-03-17": {
+  "gpt-5.4-nano": {
     "type": {
       "primary": "chat",
       "supported": ["tools", "image"]
     }
   },
-  "gpt-5.4-nano": {
+  "gpt-5.4-nano-2026-03-17": {
     "type": {
       "primary": "chat",
       "supported": ["tools", "image"]
