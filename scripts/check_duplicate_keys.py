@@ -12,11 +12,13 @@ from typing import Any, Dict, List, Optional, Tuple
 
 def gha_error(file_path: str, message: str, line: Optional[int] = None) -> None:
     safe_message = message.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+    # Keep file path in message body too, since some GitHub views truncate annotation metadata.
+    message_with_file = f"{file_path}: {safe_message}"
     if line is not None and line > 0:
-        print(f"::error file={file_path},line={line}::{safe_message}")
+        print(f"::error file={file_path},line={line}::{message_with_file}")
         return
 
-    print(f"::error file={file_path}::{safe_message}")
+    print(f"::error file={file_path}::{message_with_file}")
 
 
 def parse_with_duplicate_key_detection(content: str) -> Tuple[Any, List[str]]:
