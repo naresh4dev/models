@@ -334,11 +334,11 @@
     "type": { "primary": "chat" }
   },
   "qwen3.5-omni-plus": {
-    "params": [{ "key": "max_tokens", "maxValue": 16384 }],
+    "params": [{ "key": "max_tokens", "maxValue": 65536 }],
     "type": { "primary": "chat" }
   },
   "qwen3.5-omni-flash": {
-    "params": [{ "key": "max_tokens", "maxValue": 16384 }],
+    "params": [{ "key": "max_tokens", "maxValue": 65536 }],
     "type": { "primary": "chat" }
   },
   "qwen3.5-omni-plus-realtime": {

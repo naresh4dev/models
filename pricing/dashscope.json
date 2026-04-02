@@ -322,10 +322,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.000072
+          "price": 0.000007
         },
         "response_token": {
-          "price": 0.000072
+          "price": 0.000016
         }
       }
     }
@@ -679,13 +679,13 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.00007
+          "price": 0.00004
         },
         "response_token": {
-          "price": 0.00028
+          "price": 0.00016
         },
         "reasoning_token": {
-          "price": 0.00084
+          "price": 0.0004
         }
       }
     }
@@ -736,10 +736,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.000026
+          "price": 0.00004
         },
         "response_token": {
-          "price": 0.000156
+          "price": 0.00024
         }
       }
     }
@@ -748,10 +748,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.00006
+          "price": 0.0000574
         },
         "response_token": {
-          "price": 0.0002
+          "price": 0.0003011
         }
       }
     }
@@ -880,10 +880,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.000039
+          "price": 0.0000431
         },
         "response_token": {
-          "price": 0.000175
+          "price": 0.0002007
         }
       }
     }
@@ -892,10 +892,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.000039
+          "price": 0.0000431
         },
         "response_token": {
-          "price": 0.000174
+          "price": 0.0002007
         }
       }
     }
@@ -916,10 +916,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.000007
+          "price": 0.00003
         },
         "response_token": {
-          "price": 0.00003
+          "price": 0.00015
         }
       }
     }
