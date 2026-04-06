@@ -59,10 +59,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.000012
+          "price": 0.00012
         },
         "response_token": {
-          "price": 0.000048
+          "price": 0.00048
         }
       }
     }
@@ -102,9 +102,6 @@
         },
         "response_token": {
           "price": 0.00004
-        },
-        "cache_read_input_token": {
-          "price": 0.000001
         }
       }
     }
@@ -117,6 +114,9 @@
         },
         "response_token": {
           "price": 0.00064
+        },
+        "cache_read_input_token": {
+          "price": 0.000032
         }
       }
     }
