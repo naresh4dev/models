@@ -3759,10 +3759,10 @@
       "currency": "USD",
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.003
+          "price": 0.0003
         },
         "response_token": {
-          "price": 0.015
+          "price": 0.0015
         }
       }
     }
