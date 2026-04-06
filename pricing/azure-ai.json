@@ -3753,5 +3753,145 @@
         }
       }
     }
+  },
+  "grok-4": {
+    "pricing_config": {
+      "currency": "USD",
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.003
+        },
+        "response_token": {
+          "price": 0.015
+        }
+      }
+    }
+  },
+  "embed-v4.0": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00012
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
+  },
+  "Kimi-K2-Thinking": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.0006
+        },
+        "response_token": {
+          "price": 0.0025
+        }
+      }
+    }
+  },
+  "DeepSeek-V3.2": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00058
+        },
+        "response_token": {
+          "price": 0.00168
+        }
+      }
+    }
+  },
+  "DeepSeek-V3.2-Speciale": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00058
+        },
+        "response_token": {
+          "price": 0.00168
+        }
+      }
+    }
+  },
+  "mistral-medium-2505": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.0004
+        },
+        "response_token": {
+          "price": 0.002
+        }
+      }
+    }
+  },
+  "gpt-5-chat-2025-08-07": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00125
+        },
+        "response_token": {
+          "price": 0.01
+        },
+        "cache_write_input_token": {
+          "price": 0
+        },
+        "cache_read_input_token": {
+          "price": 0.000125
+        }
+      }
+    }
+  },
+  "gpt-5.2": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00175
+        },
+        "response_token": {
+          "price": 0.014
+        },
+        "cache_write_input_token": {
+          "price": 0
+        },
+        "cache_read_input_token": {
+          "price": 0.000175
+        }
+      }
+    }
+  },
+  "gpt-5.2-2025-12-11": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00175
+        },
+        "response_token": {
+          "price": 0.014
+        },
+        "cache_write_input_token": {
+          "price": 0
+        },
+        "cache_read_input_token": {
+          "price": 0.000175
+        }
+      }
+    }
+  },
+  "grok-3-mini-high": {
+    "pricing_config": {
+      "currency": "USD",
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00025
+        },
+        "response_token": {
+          "price": 0.00127
+        }
+      }
+    }
   }
 }
