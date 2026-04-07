@@ -4119,7 +4119,7 @@
     "type": { "primary": "chat", "supported": ["tools", "image"] }
   },
   "gpt-oss-120b": {
-    "params": [{ "key": "max_tokens"}],
+    "params": [{ "key": "max_tokens", "maxValue": 32768 }],
     "type": { "primary": "chat" }
   }
 }
