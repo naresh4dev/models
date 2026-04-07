@@ -3831,16 +3831,16 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.00125
+          "price": 0.000125
         },
         "response_token": {
-          "price": 0.01
+          "price": 0.001
         },
         "cache_write_input_token": {
           "price": 0
         },
         "cache_read_input_token": {
-          "price": 0.000125
+          "price": 0.0000125
         }
       }
     }
@@ -3849,16 +3849,16 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.00175
+          "price": 0.000175
         },
         "response_token": {
-          "price": 0.014
+          "price": 0.0014
         },
         "cache_write_input_token": {
           "price": 0
         },
         "cache_read_input_token": {
-          "price": 0.000175
+          "price": 0.0000175
         }
       }
     }
@@ -3867,16 +3867,16 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.00175
+          "price": 0.000175
         },
         "response_token": {
-          "price": 0.014
+          "price": 0.0014
         },
         "cache_write_input_token": {
           "price": 0
         },
         "cache_read_input_token": {
-          "price": 0.000175
+          "price": 0.0000175
         }
       }
     }
