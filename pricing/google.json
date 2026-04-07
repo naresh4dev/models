@@ -1576,6 +1576,37 @@
       }
     }
   },
+  "gemini-2.5-flash-image": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00003
+        },
+        "response_token": {
+          "price": 0.00025
+        },
+        "additional_units": {
+          "web_search": {
+            "price": 3.5
+          },
+          "image_token": {
+            "price": 0.003
+          },
+          "search": {
+            "price": 3.5
+          }
+        }
+      },
+      "batch_config": {
+        "request_token": {
+          "price": 0.000015
+        },
+        "response_token": {
+          "price": 0.000125
+        }
+      }
+    }
+  },
   "gemini-3-pro-image-preview-lte-128k": {
     "pricing_config": {
       "pay_as_you_go": {
